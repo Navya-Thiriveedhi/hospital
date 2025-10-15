@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mthulasireddy.github.io/hospital/",
+  "homepage": "https://Navya-Thiriveedhi.github.io/hospital/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
